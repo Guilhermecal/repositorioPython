@@ -42,3 +42,6 @@ while True:
     if resp == "N":
         break
 
+
+#tem que adicionar linhas para salvar mensagens e mostrar todas palavras inseridas
+
